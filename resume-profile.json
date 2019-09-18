@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Ankit Gaur",
+    "label": "",
+    "picture": "",
+    "email": "ankitgaur3@acm.org",
+    "phone": "+91-9740465237",
+    "website": "https://www.linkedin.com/in/ankitgaur/",
+    "summary": "Experienced engineer with over 11 years of SDET/QA experience at Cisco Systems and Akamai Technologies. B.E(Hons.) 2008 pass out from BITS, Pilani. CCNA (2011) Certified.",
+    "location": {
+      "address": "",
+      "postalCode": "560037",
+      "city": "",
+      "countryCode": "IN",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Akamai Technologies",
+      "position": "Senior Software Development Engineer in Test",
+      "website": "",
+      "startDate": "2014-08-01",
+      "summary": "- Component level testing and automation for Akamai Media Services Live and On-Demand streaming products - https://www.akamai.com/us/en/products/media-delivery/media-services-live.jsp - Automation using Python unittest based framework - Continuous Integration setup with Jenkins and Ansible  - Code Coverage using gcov  - Implemented CI Crash Reporting, Pre Commit Checks with Perforce with Python, Jenkins Pipeline and Consul, Maintaining build machines  - Redesigned Performance Testing Framework to do Automated Capacity Determination.",
+      "highlights": []
+    },
+    {
+      "company": "Cisco Systems",
+      "position": "Software QA Engineer, Adaptive Security Appliance",
+      "website": "",
+      "startDate": "2011-09-01",
+      "summary": "- Tested core firewall features - NAT, IPv6, Clustering, ACL's, Etherchannel, VLANS, Inspections, VoIP.  - Test case automation using TCL. - Setup VMWare ESX based virtual lab for testing. - Qualified ISA (Integrated Security Appliance) Firewall/NAT/Multicast/VPN features - Developed utilities/tools using Python. - Certified Security Ninja White-belt - Acted as Security Advocate for the product - Submitted 4 entries (including SPDY) for TechRadar – Cisco’s internal newsletter for new technologies. - Filed 2 patent submission related to security technologies. - Attended trainings on CCNP Switch and Routing, Hadoop, Python",
+      "highlights": [],
+      "endDate": "2014-08-01"
+    },
+    {
+      "company": "Cisco Systems",
+      "position": "Software QA Engineer, IronPort Web Security Appliance",
+      "website": "",
+      "startDate": "2008-08-01",
+      "summary": "First job out of the college. Work on Web Security as a QA Engineer. Responsibilities, Projects and experience included: - Functional testing for FreeBSD based web proxy appliance - Tested core HTTP-HTTPS(SSL)-FTP Proxy, Access Policies, Authentication (NTLM/LDAP), Malware Scanning modules, SaaS support, DLP (on box/off box) - Automated Build Qualification and upgrade testing using Selenium and Python - Participated in three major releases and multiple maintenance and hot-patch releases - Thrice Awarded Cisco Achievement Program (CAP) award for excellent performance. - Setup the Virtual appliances lab for testing. - Introduced Protocol Robustness testing using Codenomicon Defensics tool. - Debugging and reproducing customer reported issues - Providing documentation for handled features and interacting with Sales, Support Engineers for resolving issues.",
+      "highlights": [],
+      "endDate": "2011-08-01"
+    },
+    {
+      "company": "Genesis Microchip",
+      "position": "Intern, Systems Engineering",
+      "website": "",
+      "startDate": "2008-01-01",
+      "summary": "- Digital filter design for NTSC Audio and Video using MATLAB",
+      "highlights": [],
+      "endDate": "2008-06-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Management, Bangalore",
+      "area": "",
+      "studyType": "PGSEM",
+      "startDate": "2012-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2015-01-01"
+    },
+    {
+      "institution": "Birla Institute of Technology and Science",
+      "area": "",
+      "studyType": "BE(Hons.)",
+      "startDate": "2004-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2008-01-01"
+    },
+    {
+      "institution": "Kendriya Vidyalaya",
+      "area": "",
+      "studyType": "Matriculation",
+      "startDate": "1998-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2004-01-01"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Chitra Rentala - Apple",
+      "reference": "Ankit has exceptional testing and automation skills and excellent networking and debugging skills. He developed complex testing frameworks in Python for functional and performance testing at Akamai. He is adept in building CI systems using Jenkins. He incorporates industry standard tools and brings new ideas to the table. Ankit is a great team player as well. He is always cheerful and ready to help. It has been my pleasure working with Ankit at Akamai Technologies. He is a great asset to have in the team."
+    },
+    {
+      "name": "Parag Salvi - Cisco",
+      "reference": "Ankit is a rockstar engineer ! I worked with him as a part of WSA Test Team as his remote peer. He was fresh out of school but in quick time he showed good understanding of the product features and various networking protocols (HTTP, HTTPS, FTP) that the product was proxying. He found many critical bugs in the product and was instrumental in reproducing several critical customer defects which the customer support team at times were unable to.   Lot of times he would go above and beyond his role of testing specific features, and would do general/adhoc testing which uncovered several important defects in the product and helped with overall quality of the product.   He will be an asset to any team he choses to join !"
+    },
+    {
+      "name": "Usha Iyer - Nutanix",
+      "reference": "I have worked with Ankit from the time he joined Akamai Technologies. He is technically strong in various networking, http , SSL and general linux. He is a quick learner. He has strong debugging skills. He is a great mentor to the juniors in the team and definitely an asset to the team."
+    }
+  ]
+}

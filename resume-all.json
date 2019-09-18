@@ -1,0 +1,412 @@
+{
+  "basics": {
+    "name": "Ankit Gaur",
+    "label": "> Experienced engineer with over 11 years of SDET/QA experience at Cisco Systems and Akamai Technologies. B.E(Hons.) 2008 pass out from BITS, Pilani. CCNA (2011) Certified.",
+    "picture": "",
+    "email": "ankitgaur3@acm.org",
+    "phone": "+91-9740465237",
+    "website": "https://www.linkedin.com/in/ankitgaur/",
+    "summary": "Computer Networking",
+    "location": {
+      "address": "",
+      "postalCode": "560037",
+      "city": "",
+      "countryCode": "IN",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Akamai Technologies",
+      "position": "Senior Software Development Engineer in Test",
+      "website": "",
+      "startDate": "2014-08-01",
+      "summary": "- Component level testing and automation for Akamai Media Services Live and On-Demand streaming products - https://www.akamai.com/us/en/products/media-delivery/media-services-live.jsp - Automation using Python unittest based framework - Continuous Integration setup with Jenkins and Ansible  - Code Coverage using gcov  - Implemented CI Crash Reporting, Pre Commit Checks with Perforce with Python, Jenkins Pipeline and Consul, Maintaining build machines  - Redesigned Performance Testing Framework to do Automated Capacity Determination.",
+      "highlights": []
+    },
+    {
+      "company": "Cisco Systems",
+      "position": "Software QA Engineer, Adaptive Security Appliance",
+      "website": "",
+      "startDate": "2011-09-01",
+      "summary": "- Tested core firewall features - NAT, IPv6, Clustering, ACL's, Etherchannel, VLANS, Inspections, VoIP.  - Test case automation using TCL. - Setup VMWare ESX based virtual lab for testing. - Qualified ISA (Integrated Security Appliance) Firewall/NAT/Multicast/VPN features - Developed utilities/tools using Python. - Certified Security Ninja White-belt - Acted as Security Advocate for the product - Submitted 4 entries (including SPDY) for TechRadar – Cisco’s internal newsletter for new technologies. - Filed 2 patent submission related to security technologies. - Attended trainings on CCNP Switch and Routing, Hadoop, Python",
+      "highlights": [],
+      "endDate": "2014-08-01"
+    },
+    {
+      "company": "Cisco Systems",
+      "position": "Software QA Engineer, IronPort Web Security Appliance",
+      "website": "",
+      "startDate": "2008-08-01",
+      "summary": "First job out of the college. Work on Web Security as a QA Engineer. Responsibilities, Projects and experience included: - Functional testing for FreeBSD based web proxy appliance - Tested core HTTP-HTTPS(SSL)-FTP Proxy, Access Policies, Authentication (NTLM/LDAP), Malware Scanning modules, SaaS support, DLP (on box/off box) - Automated Build Qualification and upgrade testing using Selenium and Python - Participated in three major releases and multiple maintenance and hot-patch releases - Thrice Awarded Cisco Achievement Program (CAP) award for excellent performance. - Setup the Virtual appliances lab for testing. - Introduced Protocol Robustness testing using Codenomicon Defensics tool. - Debugging and reproducing customer reported issues - Providing documentation for handled features and interacting with Sales, Support Engineers for resolving issues.",
+      "highlights": [],
+      "endDate": "2011-08-01"
+    },
+    {
+      "company": "Genesis Microchip",
+      "position": "Intern, Systems Engineering",
+      "website": "",
+      "startDate": "2008-01-01",
+      "summary": "- Digital filter design for NTSC Audio and Video using MATLAB",
+      "highlights": [],
+      "endDate": "2008-06-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Management, Bangalore",
+      "area": "",
+      "studyType": "PGSEM",
+      "startDate": "2012-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2015-01-01"
+    },
+    {
+      "institution": "Birla Institute of Technology and Science",
+      "area": "",
+      "studyType": "BE(Hons.)",
+      "startDate": "2004-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2008-01-01"
+    },
+    {
+      "institution": "Kendriya Vidyalaya",
+      "area": "",
+      "studyType": "Matriculation",
+      "startDate": "1998-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2004-01-01"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Chitra Rentala - Apple",
+      "reference": "Ankit has exceptional testing and automation skills and excellent networking and debugging skills. He developed complex testing frameworks in Python for functional and performance testing at Akamai. He is adept in building CI systems using Jenkins. He incorporates industry standard tools and brings new ideas to the table. Ankit is a great team player as well. He is always cheerful and ready to help. It has been my pleasure working with Ankit at Akamai Technologies. He is a great asset to have in the team."
+    },
+    {
+      "name": "Parag Salvi - Cisco",
+      "reference": "Ankit is a rockstar engineer ! I worked with him as a part of WSA Test Team as his remote peer. He was fresh out of school but in quick time he showed good understanding of the product features and various networking protocols (HTTP, HTTPS, FTP) that the product was proxying. He found many critical bugs in the product and was instrumental in reproducing several critical customer defects which the customer support team at times were unable to.   Lot of times he would go above and beyond his role of testing specific features, and would do general/adhoc testing which uncovered several important defects in the product and helped with overall quality of the product.   He will be an asset to any team he choses to join !"
+    },
+    {
+      "name": "Usha Iyer - Nutanix",
+      "reference": "I have worked with Ankit from the time he joined Akamai Technologies. He is technically strong in various networking, http , SSL and general linux. He is a quick learner. He has strong debugging skills. He is a great mentor to the juniors in the team and definitely an asset to the team."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Automated Capacity Determination using Dynamic Load Control",
+      "startDate": "2018-01-01",
+      "summary": "Developed a generic Python based framework to automatically discover the software capacity by adjusting the load on the machine (on basis of monitored metrics) given the limiting values for various parameters like CPU, RSS, request latency etc.",
+      "url": ""
+    },
+    {
+      "name": "MSL 4: Live to VOD",
+      "startDate": "2018-01-01",
+      "summary": "The MSL4 Live-to-VoD feature enables customers to convert live streams to video-on-demand assets for HLS and DASH. I worked as SDET engineer for the core features which involved indexing the HLS and DASH playlists and saving it on interval key-value store. Wrote parsing utilities by utilizing open source libraries.   Technologies: HLS, DASH, Python, Demuxing utilities.",
+      "url": "https://learn.akamai.com/en-us/webhelp/media-services-live/media-services-live-ingest-users-guide-v4/GUID-4B33E5B0-2C73-4795-B49A-83E68CA540D7.html"
+    },
+    {
+      "name": "Pre-Submit Checks with Perforce and Jenkins",
+      "startDate": "2016-08-01",
+      "summary": "Developed a Pre-checkin system (OATS) to test the code before being committed to the trunk branch. (something similar to Chrome CQ - https://dev.chromium.org/developers/testing/commit-queue/design) . Used Perforce shelve functionality, Jenkins pipeline, Jenkins Blue Ocean and Consul as key-value store. This also served as introduction to Jenkins 2.0 for the team, and I helped out in Jenkins 2.0 pipeline adoption.",
+      "url": "",
+      "endDate": "2016-10-01"
+    },
+    {
+      "name": "CI Crash Reporting",
+      "startDate": "2016-01-01",
+      "summary": "Added crash reporting functionality to the Jenkins based Continous Integration system using linux kernel's core_pattern functionality in combination with a data collector script.",
+      "url": ""
+    },
+    {
+      "name": "GCOV/LCOV based code coverage for C++ Server software",
+      "startDate": "2015-01-01",
+      "summary": "Code coverage for C++ based software with lcov instrumentation and gcov frontend.",
+      "url": ""
+    },
+    {
+      "name": "SDET Owner for USS VOD Translator",
+      "startDate": "2015-01-01",
+      "summary": "Took SDET ownership of USS VOD Translator product, a C++ based server, which supported content transmuxing (from and to Akamai HD Flash, Adobe HDS, and Apple HLS) format for Akamai's HTTP based Video On demand workflow.  Supported product features like SSL support, captioning support for WebVTT and did capacity testing .",
+      "url": "https://developer.akamai.com/legacy/learn/Content_Delivery/HD_On_Demand_Content.html"
+    },
+    {
+      "name": "Continuous Integration Setup Co-Ownership",
+      "startDate": "2015-01-01",
+      "summary": "Co-owned the Jenkins and Ansible based CI setup for the project, which involved adding new projects, enhancing the ansible playbooks etc. Developed understanding and skills in this area. Also helped in reducing the number of machines required for testing by merging two machine roles into one. Helped other teams in the org to ramp-up on advanced aspects of CI.",
+      "url": "",
+      "endDate": "2018-01-01"
+    },
+    {
+      "name": "MSL 4: Low Latency Live Streaming",
+      "startDate": "2015-01-01",
+      "summary": "Worked as SDET on the various modules for the Akamai's new solution for Low Latency Streaming called MSL4. Handled various features involving archiving of data, support for various media protocols (like DASH, HDS, HLS etc), and system features.",
+      "url": "https://learn.akamai.com/en-us/products/media_delivery/media_services_live.html"
+    },
+    {
+      "name": "SSL support for VOD Translator server",
+      "startDate": "2014-09-01",
+      "summary": "This was the first feature I worked on, in my role as SDET in Akamai's Media Division. I was involved in test planning and automation (in a Perl based framework) to enable secure end-to-end video delivery over HTTPS for Mid-Tier components. This involved interaction with KMI (Key Management Infrastructure) to obtain the certs and other secrets. I developed fine grained understanding of how automated key management infrastructure is run at the global scale. Technology: HTTPS, SSL, KMI, KDC",
+      "url": "https://developer.akamai.com/legacy/learn/Content_Delivery/HD_On_Demand_Content.html",
+      "endDate": "2014-11-01"
+    },
+    {
+      "name": "Protocol Robustness Testing using Codenomicon Fuzz Testing",
+      "startDate": "2011-01-01",
+      "summary": "The Defensics Codenomicon tool provides automated solution to test the protocol implementation for robustness against malformed packets (like one which would trigger buffer overflow, format string, memory allocation issues).  I took initiative to start protocol robustness testing on IronPort Web Security Appliance. Trained and engaged team on effort, Developed strategy and best practices for the tool usage. This helped us identify many of memory leaks and crashes.",
+      "url": "https://www.synopsys.com/software-integrity/security-testing/fuzz-testing.html",
+      "endDate": "2011-03-01"
+    },
+    {
+      "name": "Firewall NAT Functionality",
+      "startDate": "2011-01-01",
+      "summary": "Qualified IPv6 support for Network Address Translation on Cisco Adaptive Security Appliance. Also worked on adding TCL based automation and qualifying the stabilization efforts for the functionality.",
+      "url": "",
+      "endDate": "2014-01-01"
+    },
+    {
+      "name": "SaaS Access Control",
+      "startDate": "2010-01-01",
+      "summary": "SaaS Access control centralizes the management of access to multiple SaaS applications (like SalesForce, Webex, Google Apps) by integrating the the SaaS application authentication with the already existing authentication mechanism in organization (like NTML/LDAP etc). The Web Security appliance uses the Security Assertion Markup Language (SAML) to authorize access to SaaS applications.  My role was as test engineer to create test plan, execute the test cases and qualify the feature.",
+      "url": "https://www.cisco.com/c/en/us/td/docs/security/wsa/wsa11-0/user_guide/b_WSA_UserGuide/b_WSA_UserGuide_chapter_01010.html",
+      "endDate": "2010-03-01"
+    },
+    {
+      "name": "Build Qualification Automation using Selenium IDE",
+      "startDate": "2009-01-01",
+      "summary": "Maintained Python + Selenium IDE based build qualification suite to smoke test the build before taking up further testing. This helped us to discover any basic defects at the start itself, so as to not waste further efforts.",
+      "url": "",
+      "endDate": "2010-06-01"
+    },
+    {
+      "name": "HTTP/HTTPS Proxy Authentication",
+      "startDate": "2009-01-01",
+      "summary": "WSA supported NTLM and LDAP authentication to establish identity of the users going via the proxy. I acted as co-owner of the Authentication module from the QA side and qualified various features such as Per Identity Auth, Transparent HTTPS Authentication etc.",
+      "url": "",
+      "endDate": "2011-01-01"
+    },
+    {
+      "name": "QA Qualification for Data Loss Prevention",
+      "startDate": "2008-10-01",
+      "summary": "IronPort Data Security Filters provide administrator with visibility and control over data leaving the network via the web (HTTP/HTTPS) and FTP. This feature allows admin to create policies and take actions based on relevant parameters like the source (user), destination (URL categories and web reputation), and file metadata (file name, file type, and file size). I was involved in doing qa qualification for the feature.",
+      "url": "https://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/solution-overview-c22-738537.html",
+      "endDate": "2008-12-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firewalls",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TCP/IP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Network Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shell Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Automation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Debugging",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Performance Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Selenium",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Switches",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ansible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vagrant",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Internet Security",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IPv6",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SSL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "FreeBSD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTTPS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VLAN",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HLS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DASH",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HDS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Automation Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTTP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Media Streaming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perforce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virtualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Distributed Systems",
+      "level": "",
+      "keywords": []
+    }
+  ]
+}

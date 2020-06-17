@@ -21,6 +21,22 @@
       "url": "https://www.cohesity.com/"
     },
     {
+      "name": "Automation for OVN Controller",
+      "startDate": "2019-12-01",
+      "summary": "Open vSwitch (OVS) is used to provide virtual networking for running Apps on Cohesity platform. Automating the OVN Controller related tests in Go."
+    },
+    {
+    "name": "Qualification of 4K VLAN Suppport",
+    "startDate": "2019-12-01",
+    "summary": "Qualified the networking enhancement which removed the limit on the VLANS supported on Cohesity platform from previous 128."
+  },
+  {
+    "name": "POC Validation for Virtual Switch Tagging Support for VE Deployment",
+    "startDate": "2019-12-01",
+    "summary": "Validated Cohesity Virtual Edition working in VST topology where ESX DVS does the VLAN tagging and untagging. "
+  },
+
+    {
       "name": "Pre-Submit Checks with Perforce and Jenkins",
       "startDate": "2016-08-01",
       "summary": "Developed a Pre-checkin system (OATS) to test the code before being committed to the trunk branch. (something similar to Chrome CQ - https://dev.chromium.org/developers/testing/commit-queue/design) . Used Perforce shelve functionality, Jenkins pipeline, Jenkins Blue Ocean and Consul as key-value store. This also served as introduction to Jenkins 2.0 for the team, and I helped out in Jenkins 2.0 pipeline adoption.",

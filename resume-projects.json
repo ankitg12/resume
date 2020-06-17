@@ -15,23 +15,10 @@
   },
   "projects": [
     {
-      "name": "MSL 4: Low Latency Live Streaming",
-      "startDate": "2015-01-01",
-      "summary": "Worked as SDET on various modules for the Akamai's new solution for Low Latency Streaming called MSL4. Handled features involving archiving of data, support for various media protocols (like DASH, HDS, HLS etc), and other system features.",
-      "url": "https://www.akamai.com/us/en/products/media-delivery/media-services-live.jsp"
-    },
-    {
-      "name": "MSL 4: Live to VOD",
-      "startDate": "2018-01-01",
-      "summary": "The MSL4 Live-to-VoD feature enables customers to convert live streams to video-on-demand assets for HLS and DASH. I worked as SDET engineer for the core features which involved indexing the HLS and DASH playlists and saving it on interval key-value store. I wrote parsing utilities for these protocols (by utilizing open source libraries) as well as implemented a key-value store simulator using Python PickleDB library.",
-      "url": "https://learn.akamai.com/en-us/webhelp/media-services-live/media-services-live-ingest-users-guide-v4/GUID-4B33E5B0-2C73-4795-B49A-83E68CA540D7.html"
-    },
-    {
-      "name": "Automated Capacity Determination using Dynamic Load Control",
-      "startDate": "2018-01-01",
-      "summary": "Developed a generic Python based framework to automatically discover the software capacity by adjusting the load on the machine (on basis of monitored metrics) given the limiting values for various parameters like CPU, RSS, request latency etc.",
-      "url": "",
-      "endDate": "2018-06-01"
+      "name": "Cohesity Platform Team SDET",
+      "startDate": "2019-12-01",
+      "summary": "Working as SDET in core Infra/Platform team, taking care of feature/release qualifications as well testing on Virtual Editions",
+      "url": "https://www.cohesity.com/"
     },
     {
       "name": "Pre-Submit Checks with Perforce and Jenkins",
@@ -48,14 +35,37 @@
       "url": ""
     },
     {
+      "name": "Automated Capacity Determination using Dynamic Load Control",
+      "startDate": "2018-01-01",
+      "summary": "Developed a generic Python based framework to automatically discover the software capacity by adjusting the load on the machine (on basis of monitored metrics) given the limiting values for various parameters like CPU, RSS, request latency etc.",
+      "url": "",
+      "endDate": "2018-06-01"
+    },
+    {
+      "name": "MSL 4: Low Latency Live Streaming",
+      "startDate": "2015-01-01",
+      "endDate": "2019-11-15",
+      "summary": "Worked as SDET on various modules for the Akamai's new solution for Low Latency Streaming called MSL4. Handled features involving archiving of data, support for various media protocols (like DASH, HDS, HLS etc), and other system features.",
+      "url": "https://www.akamai.com/us/en/products/media-delivery/media-services-live.jsp"
+    },
+    {
+      "name": "MSL 4: Live to VOD",
+      "startDate": "2018-01-01",
+      "endDate": "2019-11-15",
+      "summary": "The MSL4 Live-to-VoD feature enables customers to convert live streams to video-on-demand assets for HLS and DASH. I worked as SDET engineer for the core features which involved indexing the HLS and DASH playlists and saving it on interval key-value store. I wrote parsing utilities for these protocols (by utilizing open source libraries) as well as implemented a key-value store simulator using Python PickleDB library.",
+      "url": "https://learn.akamai.com/en-us/webhelp/media-services-live/media-services-live-ingest-users-guide-v4/GUID-4B33E5B0-2C73-4795-B49A-83E68CA540D7.html"
+    },
+    {
       "name": "GCOV/LCOV based code coverage for C++ Server software",
       "startDate": "2015-01-01",
+      "endDate": "2019-11-15",
       "summary": "Generated and reported code coverage for C++ based software with lcov instrumentation and gcov frontend. Worked with Akamai's internal build system to instrument the binary and solved various challenges associated with proper instrumented compilation and reporting of coverage. Developed better understanding of linkers and loaders as part of this project.",
       "url": ""
     },
     {
       "name": "SDET Owner for USS VOD Translator",
       "startDate": "2015-01-01",
+      "endDate": "2019-11-15",
       "summary": "Took SDET ownership of USS VOD Translator product, a C++ based server, which supported content transmuxing (from and to Akamai HD Flash, Adobe HDS, and Apple HLS) format for Akamai's HTTP based Video On demand workflow.  Supported product features like SSL support, captioning support for WebVTT and did capacity testing .",
       "url": "https://developer.akamai.com/legacy/learn/Content_Delivery/HD_On_Demand_Content.html"
     },

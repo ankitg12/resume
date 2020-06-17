@@ -1,0 +1,240 @@
+{
+  "basics": {
+    "name": "Ankit Gaur",
+    "label": "",
+    "picture": "",
+    "email": "ankitgaur3@acm.org",
+    "phone": "+91-9740465237",
+    "website": "https://www.linkedin.com/in/ankitgaur/",
+    "summary": "SDET/QA engineer with over 12 years' experience in Networking, Web Security, Network Security and Media Streaming domain. B.E (Hons.) Electronics and Instrumentation, BITS Pilani, 2008. CCNA (2011) Certified. AWS Solution Architect Associate (2019) Certified",
+    "location": {
+      "address": "",
+      "postalCode": "560037",
+      "city": "",
+      "countryCode": "IN",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Cohesity",
+      "position": "SDET",
+      "website": "https://www.cohesity.com/",
+      "startDate": "2019-11-18",
+      "highlights": ["SDET Engineer for Platform Team taking care of Networking, Kernel and System Services","Working with Virtualisation solutions on ESXi, KVM and Hyper-V","Automation in Go"]
+    },
+    {
+      "company": "Akamai Technologies",
+      "position": "Senior Software Development Engineer in Test",
+      "website": "https://www.akamai.com/us/en/products/media-delivery/media-services-live.jsp",
+      "startDate": "2014-08-01",
+      "highlights": ["Component level testing and automation for C++/Linux based servers, which power Akamai Media Services Live and On-Demand streaming products.","Automation using Python unittest based framework. Developed simulators for third party components","Qualified multiple features like SSL support with KDC, WebVTT subtitling support, New Streaming Format support like HDS/CMAF", "Continuous Integration setup with Jenkins and Ansible", "Implemented enhancements to CI such as Crash Reporting, Pre Commit Checks with Perforce with Python, Jenkins Pipeline and Consul etc.", "Maintained local build machines for access to most recent code checkins","Redesigned Performance Testing Framework to do Automated Capacity Determination.","Introduced Vagrant based Virtual Environment setup to team.","Helped scale the team with Interviewing and ramp up of new engineers."],
+      "endDate": "2019-11-01"
+    },
+    {
+      "company": "Cisco Systems",
+      "position": "Software QA Engineer, Adaptive Security Appliance",
+      "website": "https://www.cisco.com/c/en_in/products/security/adaptive-security-appliance-asa-software/index.html",
+      "startDate": "2011-09-01",
+      "summary": "",
+      "highlights": ["Tested core firewall features such as NAT, IPv6, Clustering, ACL's, Etherchannel, VLANS, Inspections, VoIP","Test case automation using TCL. Developed testing utilities/tools using Python","Setup VMWare ESX based virtual lab for testing","Qualified ISA (Integrated Security Appliance) Firewall/NAT/Multicast/VPN features","Certified Security Ninja White-belt. Acted as Security Advocate for the product", "Submitted and awarded for multiple entries for TechRadar – Cisco’s internal newsletter for new technologies."],
+      "endDate": "2014-08-01"
+    },
+    {
+      "company": "Cisco Systems",
+      "position": "Software QA Engineer, IronPort Web Security Appliance",
+      "website": "https://www.cisco.com/c/en_in/products/security/web-security-appliance/index.html",
+      "startDate": "2008-08-01",
+      "summary": "Functional testing for FreeBSD based web proxy appliance",
+      "highlights": ["Tested core HTTP-HTTPS(SSL)-FTP Proxy, Access Policies, Authentication (NTLM/LDAP), Malware Scanning modules, SaaS support, DLP (on box/off box)","Participated in three major releases and multiple maintenance and hot-patch releases","Automated Build Qualification and upgrade testing using Selenium and Python","Thrice Awarded Cisco Achievement Program (CAP) award for excellent performance","Introduced Protocol Robustness testing using Codenomicon Defensics tool. Setup the Virtual appliances lab for testing.","Debugging and reproducing customer reported issues. Providing documentation for handled features and interacting with Sales, Support Engineers for resolving issues."],
+      "endDate": "2011-08-01"
+    },
+    {
+      "company": "Genesis Microchip",
+      "position": "Intern, Systems Engineering",
+      "website": "",
+      "startDate": "2008-01-01",
+      "summary": "",
+      "highlights": ["Developed MATLAB model for a Digital filter for NTSC Audio and Video"],
+      "endDate": "2008-06-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Management, Bangalore",
+      "area": "",
+      "studyType": "PGSEM",
+      "startDate": "2012-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2015-01-01"
+    },
+    {
+      "institution": "Birla Institute of Technology and Science",
+      "area": "Electronics and Instrumentation",
+      "studyType": "BE(Hons.)",
+      "startDate": "2004-01-01",
+      "gpa": "9.08",
+      "courses": [],
+      "endDate": "2008-01-01"
+    },
+    {
+      "institution": "Kendriya Vidyalaya",
+      "area": "",
+      "studyType": "Matriculation",
+      "startDate": "1998-01-01",
+      "gpa": "96%",
+      "courses": [],
+      "endDate": "2004-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computer Networking",
+      "level": "",
+      "keywords": ["HTTP","TCP/IP","IPv6","VLANs", "Routing", "Switching","VMWare ESX"]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Proficient: Python","Prior Exp: Unix Shell, Perl"]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": ["Jenkins", "Ansible", "Vagrant", "Basics of AWS, Docker & k8s"]
+    }
+  ],
+  "projects": [{
+    "name": "Cohesity Platform Team SDET",
+    "startDate": "2019-12-01",
+    "summary": "Working as SDET in core Infra/Platform team, taking care of feature/release qualifications on Virtual Editions, Maintaining Nightly Runs",
+    "url": "https://www.cohesity.com/"
+  },  
+  {
+    "name": "POC Validation for Virtual Switch Tagging Support for VE Deployment",
+    "startDate": "2019-12-01",
+    "endDate": "2020-01-01",
+    "summary": "Validated Cohesity Virtual Edition working in VST topology where ESX DVS does the VLAN tagging and untagging. "
+  },    
+  {
+    "name": "Qualification of 4K VLAN Suppport",
+    "startDate": "2020-02-01",
+    "endDate": "2020-04-01",
+    "summary": "Qualified the networking enhancement which removed the limit on the VLANS supported on Cohesity platform from previous 128."
+  },  
+    {
+      "name": "Automation for OVN Controller",
+      "startDate": "2020-05-01",
+      "summary": "Open vSwitch (OVS) is used to provide virtual networking for running Apps on Cohesity platform. Automating the OVN Controller related tests in Go."
+    },
+
+    {
+      "name": "Automated Capacity Determination using Dynamic Load Control",
+      "startDate": "2018-01-01",
+      "summary": "Developed a generic Python based framework to automatically discover the software capacity by adjusting the load on the machine (on basis of monitored metrics) given the limiting values for various parameters like CPU, RSS, request latency etc.",
+      "url": "",
+      "endDate": "2018-06-01"
+    },   
+    {
+      "name": "CI Crash Reporting",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Added crash reporting functionality to the Jenkins based Continous Integration system which gives information about crashes happening in CI along with relevant information to help in debug and fix the issue. Developed this using linux kernel's 'core_pattern' functionality in combination with a data collector script.",
+      "url": ""
+    },
+
+    {
+      "name": "Pre-Submit Checks with Perforce and Jenkins",
+      "startDate": "2016-08-01",
+      "summary": "Developed a Pre-checkin system (OATS) to test the code before being committed to the trunk branch. (something similar to Chrome CQ - https://dev.chromium.org/developers/testing/commit-queue/design) . Used Perforce shelve functionality, Jenkins pipeline, Jenkins Blue Ocean and Consul as key-value store. This also served as introduction to Jenkins 2.0 for the team, and I helped out in Jenkins 2.0 pipeline adoption.",
+      "url": "",
+      "endDate": "2016-10-01"
+    },
+    {
+      "name": "GCOV/LCOV based code coverage for C++ Server software",
+      "startDate": "2015-01-01",
+      "endDate": "2019-11-15",
+      "summary": "Generated and reported code coverage for C++ based software with lcov instrumentation and gcov frontend. Worked with Akamai's internal build system to instrument the binary and solved various challenges associated with proper instrumented compilation and reporting of coverage. Developed better understanding of linkers and loaders as part of this project.",
+      "url": ""
+    },   {
+      "name": "MSL 4: Low Latency Live Streaming",
+      "startDate": "2015-01-01",
+      "endDate": "2019-11-15",
+      "summary": "Worked as SDET on various modules for the Akamai's new solution for Low Latency Streaming called MSL4. Handled features involving archiving of data, support for various media protocols (like DASH, HDS, HLS etc), and other system features.",
+      "url": "https://www.akamai.com/us/en/products/media-delivery/media-services-live.jsp"
+    },
+    {
+      "name": "MSL 4: Live to VOD",
+      "startDate": "2018-01-01",
+      "endDate": "2019-11-15",
+      "summary": "The MSL4 Live-to-VoD feature enables customers to convert live streams to video-on-demand assets for HLS and DASH. I worked as SDET engineer for the core features which involved indexing the HLS and DASH playlists and saving it on interval key-value store. I wrote parsing utilities for these protocols (by utilizing open source libraries) as well as implemented a key-value store simulator using Python PickleDB library.",
+      "url": "https://learn.akamai.com/en-us/webhelp/media-services-live/media-services-live-ingest-users-guide-v4/GUID-4B33E5B0-2C73-4795-B49A-83E68CA540D7.html"
+    }, 
+
+    {
+      "name": "SDET Owner for USS VOD Translator",
+      "startDate": "2015-01-01",
+      "endDate": "2019-11-15",
+      "summary": "Took SDET ownership of USS VOD Translator product, a C++ based server, which supported content transmuxing (from and to Akamai HD Flash, Adobe HDS, and Apple HLS) format for Akamai's HTTP based Video On demand workflow.  Supported product features like SSL support, captioning support for WebVTT and did capacity testing .",
+      "url": "https://developer.akamai.com/legacy/learn/Content_Delivery/HD_On_Demand_Content.html"
+    },
+    {
+      "name": "Continuous Integration Setup Co-Ownership",
+      "startDate": "2015-01-01",
+      "summary": "Co-owned the Jenkins and Ansible based CI setup for the project, which involved adding new projects, enhancing the ansible playbooks etc. Developed understanding and skills in this area. Also helped in reducing the number of machines required for testing by merging two machine roles into one. Helped other teams in the org to ramp-up on advanced aspects of CI.",
+      "url": "",
+      "endDate": "2018-01-01"
+    },
+    {
+      "name": "SSL support for VOD Translator server",
+      "startDate": "2014-09-01",
+      "summary": "This was the first feature I worked on, in my role as SDET in Akamai's Media Division. I was involved in test planning and automation (in a Perl based framework) to enable secure end-to-end video delivery over HTTPS for Mid-Tier components. This involved interaction with KMI (Key Management Infrastructure) to obtain the certs and other secrets. I developed fine grained understanding of how automated key management infrastructure is run at the global scale. Technology: HTTPS, SSL, KMI, KDC",
+      "url": "https://developer.akamai.com/legacy/learn/Content_Delivery/HD_On_Demand_Content.html",
+      "endDate": "2014-11-01"
+    },
+    {
+      "name": "Protocol Robustness Testing using Codenomicon Fuzz Testing",
+      "startDate": "2011-01-01",
+      "summary": "The Defensics Codenomicon tool provides automated solution to test the protocol implementation for robustness against malformed packets (like one which would trigger buffer overflow, format string, memory allocation issues).  I took initiative to start protocol robustness testing on IronPort Web Security Appliance. Trained and engaged team on effort, Developed strategy and best practices for the tool usage. This helped us identify many of memory leaks and crashes.",
+      "url": "https://www.synopsys.com/software-integrity/security-testing/fuzz-testing.html",
+      "endDate": "2011-03-01"
+    },
+    {
+      "name": "Firewall IPv6 NAT Functionality",
+      "startDate": "2011-01-01",
+      "summary": "Qualified IPv6 support for Network Address Translation on Cisco Adaptive Security Appliance. Also worked on adding TCL based automation and qualifying the stabilization efforts for the functionality.",
+      "url": "",
+      "endDate": "2014-01-01"
+    },
+    {
+      "name": "SaaS Access Control",
+      "startDate": "2010-01-01",
+      "summary": "SaaS Access control centralizes the management of access to multiple SaaS applications (like SalesForce, Webex, Google Apps) by integrating the the SaaS application authentication with the already existing authentication mechanism in organization (like NTML/LDAP etc). The Web Security appliance uses the Security Assertion Markup Language (SAML) to authorize access to SaaS applications.  My role was as test engineer to create test plan, execute the test cases and qualify the feature.",
+      "url": "https://www.cisco.com/c/en/us/td/docs/security/wsa/wsa11-0/user_guide/b_WSA_UserGuide/b_WSA_UserGuide_chapter_01010.html",
+      "endDate": "2010-03-01"
+    },
+    {
+      "name": "Build Qualification Automation using Selenium IDE",
+      "startDate": "2009-01-01",
+      "summary": "Maintained Python + Selenium IDE based build qualification suite to smoke test the build before taking up further testing. This helped us to discover any basic defects at the start itself, so as to not waste further efforts.",
+      "url": "",
+      "endDate": "2010-06-01"
+    },
+    {
+      "name": "HTTP/HTTPS Proxy Authentication",
+      "startDate": "2009-01-01",
+      "summary": "Web Security Appliance supported NTLM and LDAP authentication to establish identity of the users going via the proxy. I acted as co-owner of the Authentication module from the QA side and qualified various features such as Per Identity Auth, Transparent HTTPS Authentication etc.",
+      "url": "",
+      "endDate": "2011-01-01"
+    },
+    {
+      "name": "QA Qualification for Data Loss Prevention",
+      "startDate": "2008-10-01",
+      "summary": "IronPort Data Security Filters provide administrator with visibility and control over data leaving the network via the web (HTTP/HTTPS) and FTP. This feature allows admin to create policies and take actions based on relevant parameters like the source (user), destination (URL categories and web reputation), and file metadata (file name, file type, and file size). I was involved in doing qa qualification for the feature.",
+      "url": "https://www.cisco.com/c/en/us/products/collateral/security/web-security-appliance/solution-overview-c22-738537.html",
+      "endDate": "2008-12-01"
+    }
+  ]
+}
